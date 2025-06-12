@@ -1,6 +1,6 @@
 # Canvas: Dynamic Wallpapers & Live Videos 🌈
 
-Welcome to **Canvas**, your ultimate destination for stunning wallpapers and captivating live videos\! Built with **Flutter**, this cross-platform mobile application delivers a seamless experience for discovering and personalizing your device's background. Wallify leverages the extensive content library of the **Pexels API** to provide an endless stream of high-quality visuals, complete with powerful search capabilities for both photos and videos.
+Welcome to **Canvas**, your ultimate destination for stunning wallpapers and captivating live videos\! Built with **Flutter**, this cross-platform mobile application delivers a seamless experience for discovering and personalizing your device's background. Canvas leverages the extensive content library of the **Pexels API** to provide an endless stream of high-quality visuals, complete with powerful search capabilities for both photos and videos.
 
 This project showcases efficient API integration, responsive UI design, and robust data handling to create a fluid and engaging user experience.
 
@@ -18,22 +18,22 @@ This project showcases efficient API integration, responsive UI design, and robu
 
 ## 📸 Screenshots
 
-Here's a glimpse of the Wallify app in action:
+Here's a glimpse of the Canvas app in action:
 
-<img height="480px" src="assets/screenshots/1.png" alt="Wallify Photos Tab"\>
-<img height="480px" src="assets/screenshots/2.png" alt="Wallify Photos Tab"\>
-<img height="480px" src="assets/screenshots/3.png" alt="Wallify Videos Detail"\>
+<img height="480px" src="assets/1.png" alt="Canvas Photos Tab">
+<img height="480px" src="assets/2.png" alt="Canvas Photos Tab">
+<img height="480px" src="assets/3.png" alt="Canvas Videos Detail">
 
 ## 📺 Demo Video
 
-See Wallify in action\! Watch a detailed walkthrough of the app's features and user flow on YouTube:
+See Canvas in action\! Watch a detailed walkthrough of the app's features and user flow on YouTube:
 
-[**Watch the Wallify App Demo on YouTube**](https://www.youtube.com/playlist?list=PLj518-AUxFs8zE5ualJrqFxqsFo7fcu3R)
+[**Watch the Canvas App Demo on YouTube**](https://www.youtube.com/playlist?list=PLj518-AUxFs8zE5ualJrqFxqsFo7fcu3R)
 
 
 ## ✨ Application Flow & Key Features
 
-Wallify is designed to offer a delightful and straightforward content discovery journey.
+Canvas is designed to offer a delightful and straightforward content discovery journey.
 
 ### 1\. **Explore & Discover**
 
