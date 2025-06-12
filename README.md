@@ -1,6 +1,6 @@
-# Wallify: Dynamic Wallpapers & Live Videos 🌈
+# Canvas: Dynamic Wallpapers & Live Videos 🌈
 
-Welcome to **Wallify**, your ultimate destination for stunning wallpapers and captivating live videos\! Built with **Flutter**, this cross-platform mobile application delivers a seamless experience for discovering and personalizing your device's background. Wallify leverages the extensive content library of the **Pexels API** to provide an endless stream of high-quality visuals, complete with powerful search capabilities for both photos and videos.
+Welcome to **Canvas**, your ultimate destination for stunning wallpapers and captivating live videos\! Built with **Flutter**, this cross-platform mobile application delivers a seamless experience for discovering and personalizing your device's background. Wallify leverages the extensive content library of the **Pexels API** to provide an endless stream of high-quality visuals, complete with powerful search capabilities for both photos and videos.
 
 This project showcases efficient API integration, responsive UI design, and robust data handling to create a fluid and engaging user experience.
 
@@ -20,10 +20,9 @@ This project showcases efficient API integration, responsive UI design, and robu
 
 Here's a glimpse of the Wallify app in action:
 
-\<img height="480px" src="assets/screenshots/1.png" alt="Wallify Photos Tab"\>
-\<img height="480px" src="assets/screenshots/2.png" alt="Wallify Photos Tab"\>
-\<img height="480px" src="assets/screenshots/3.png" alt="Wallify Videos Detail"\>
-\<img height="480px" src="assets/screenshots/4.png" alt="Wallify Videos Playback"\>
+<img height="480px" src="assets/screenshots/1.png" alt="Wallify Photos Tab"\>
+<img height="480px" src="assets/screenshots/2.png" alt="Wallify Photos Tab"\>
+<img height="480px" src="assets/screenshots/3.png" alt="Wallify Videos Detail"\>
 
 ## 📺 Demo Video
 
@@ -54,5 +53,3 @@ Wallify is designed to offer a delightful and straightforward content discovery 
   * **👍 High-Quality Content**: All media is sourced from Pexels, ensuring professional-grade quality.
 
 -----
-# Wallpaper-App-Flutter
-# Wallpaper-App-Flutter
